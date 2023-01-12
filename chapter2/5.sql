@@ -1,3 +1,6 @@
+/*
+1
+*/
 
 DECLARE @YEAR INT
 set @YEAR = 2006
